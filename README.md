@@ -1,6 +1,6 @@
 # Tom Stephen Portfolio Projects
 
-This repo contains a few recent projects I've completed to hopefully show the breadth and qualtiy of my work.
+This repo contains a few recent projects I've completed to hopefully show the breadth and quality of my work.
 
 ## SMP Summer Industry Experience
 Simulated flight of paraglider in real time, using Bullet Physics & OpenGL in C++. Optimised/parameterised the model, and re-implemented the physics system to be more accurate. Implemented batch testing system, and wrote some Python scripts to automate testing of various parameters.
